@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my profile!
+#### I am currently as a student in Amikom Purwokerto University
+I love to learn something new. I'm experienced in Kotlin, Java, and Website Programming (currently PHP CodeIgniter 3). You can clone, or contributing my repositories by forking and do a pull request!
 
-<!--
-**dwichan0905/dwichan0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Android Programming (Kotlin), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Android Programming, Cloud Computing 
+- 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
+- 😄 Pronouns: Yang penting logikanya. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dwichan0905)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dwichan0905/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CdrScNET89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dwichan0905/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dwichan0905)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwichan0905)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dwichan0905&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dwichan0905)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dwichan0905)  
+
+![Profile views](https://gpvc.arturio.dev/dwichan0905)  
