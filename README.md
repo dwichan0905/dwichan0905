@@ -1,10 +1,10 @@
 ### Hi there 👋, Welcome to my profile!
 #### I am currently as a student in Amikom Purwokerto University
-I love to learn something new. I'm experienced in Kotlin, Java, and Website Programming (currently PHP CodeIgniter 3). You can clone, or contributing my repositories by forking and do a pull request!
+I have programming experience since I'm in Junior High School Class 8 (2013). I love to learn something new. I'm experienced in Kotlin, Java, and Website Programming (currently PHP CodeIgniter 3). You can clone, or contributing my repositories by forking and do a pull request!
 
-Skills: Android Programming (Kotlin), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP)
+Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP, CodeIgniter 3)
 
-- 🌱 I’m currently learning Android Programming, Cloud Computing 
+- 🌱 I’m currently learning Android Programming and Cloud Computing (Google Cloud Platform)
 - 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
 - 😄 Pronouns: Yang penting logikanya. 
 
