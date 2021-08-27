@@ -11,6 +11,13 @@ Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, C
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dwichan0905)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dwichan0905/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CdrScNET89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dwichan0905/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwichan0905)](https://github.com/anuraghazra/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=dwichan0905)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dwichan0905)](https://github.com/ryo-ma/github-profile-trophy)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dwichan0905&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dwichan0905)  
+<p align="left">
+<a href="https://github.com/dwichan0905">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwichan0905&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwichan0905&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dwichan0905)  
