@@ -1,11 +1,11 @@
 ### Hi there 👋, Welcome to my profile!
 #### I am currently as an Android Developer in Aksaramaya, graduated with distinction from Amikom Purwokerto University
-I have programming experience since I'm in Junior High School Class 8 (2013). I love to learn something new. I'm experienced in Kotlin, Java, and Website Programming (currently PHP CodeIgniter 3). You can clone, or contributing my repositories by forking and do a pull request!
+I have programming experience since I'm in Junior High School Class 8 (2013). I love to learn something new. I'm experienced in Kotlin, Java, and Website Programming (currently PHP CodeIgniter 3 as Frontend, NodeJs+Hapi as Backend). You can clone, or contributing my repositories by forking and do a pull request!
 
-Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP, CodeIgniter 3)
+Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP, CodeIgniter 3, NodeJS+Hapi)
 
 - 🌱 I’m currently learning Android Programming (Jetpack Compose 1.3.3) and Backend Website Programming (NodeJS+Hapi)
-- 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
+- 📫 How to reach me: Ask me via Facebook or Instagram in the link below (click the icon to go to my profile) 
 - 😄 Pronouns: Yang penting logikanya. 
 
 
