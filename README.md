@@ -4,7 +4,7 @@ I have programming experience since I'm in Junior High School Class 8 (2013). I 
 
 Skills: Android Programming (Kotlin/Java), Java Desktop (J2SE), Website (HTML, CSS, JS, PHP, CodeIgniter 3)
 
-- 🌱 I’m currently learning Android Programming (Jetpack Compose 1.2.0) and Backend Website Programming (CodeIgniter 4)
+- 🌱 I’m currently learning Android Programming (Jetpack Compose 1.3.3) and Backend Website Programming (NodeJS+Hapi)
 - 📫 How to reach me: Ask me via Messenger or Facebook in the link below (click the icon to go to my profile) 
 - 😄 Pronouns: Yang penting logikanya. 
 
